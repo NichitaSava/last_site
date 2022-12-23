@@ -1,3 +1,28 @@
-@media (max-width: 2000px){
-
+@media (max-width: 1600px){
+    .title_intro{
+        position: absolute;
+        left: 51%;
+        right: 10%;
+    }
+    .text_intro{
+        position: absolute;
+        left: 48%;
+        right: 10%;
+    }
+    .img_mobile{
+        position: relative;
+        width: 400px;
+        left: 15%;
+        top: 15%;
+    }
+    .img_avaiableAndroid{
+        position: relative;
+        width: 200px;
+        left: 20%;
+    }
+    .img_avaiableApple{
+        position: relative;
+        width: 200px;
+        left: 20%;
+    }
 }
